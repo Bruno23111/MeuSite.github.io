@@ -125,7 +125,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, [class*='heading-'] a {
 }
 
 h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, [class*='heading-'] a:hover {
-	color: #8dbebb;
+	color: #01b3a7;
 }
 
 h1,
@@ -305,11 +305,11 @@ a, a:focus, a:active, a:hover {
 }
 
 a, a:focus, a:active {
-	color: #01b3a7;
+	color: #461e6e;
 }
 
 a:hover {
-	color: #016760;
+	color: #461e6e;
 }
 
 a[href*='tel'], a[href*='mailto'] {
@@ -317,11 +317,11 @@ a[href*='tel'], a[href*='mailto'] {
 }
 
 .link-hover {
-	color: #016760;
+	color: #461e6e;
 }
 
 .link-press {
-	color: #016760;
+	color: #461e6e;
 }
 
 .privacy-link {
@@ -17074,7 +17074,7 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .rd-navbar-corporate.rd-navbar-static .rd-navbar-main-outer {
-	background: #162e44;
+	background: #461e6e;
 }
 
 .rd-navbar-corporate.rd-navbar-static .rd-navbar-nav-wrap {

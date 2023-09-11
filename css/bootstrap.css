@@ -35,7 +35,7 @@ body {
 	line-height: 1.71429;
 	color: #151515;
 	text-align: left;
-	background-color: #ffffff;
+	background-color: #585858;
 }
 
 [tabindex="-1"]:focus {
@@ -2872,7 +2872,7 @@ input[type="button"].btn-block {
 }
 
 .custom-radio .custom-control-input:disabled:checked ~ .custom-control-label::before {
-	background-color: rgba(132, 37, 211, 0.5);
+	background-color: rgba(128, 44, 197, 0.5);
 }
 
 .custom-select {
@@ -3030,7 +3030,7 @@ input[type="button"].btn-block {
 	width: 1rem;
 	height: 1rem;
 	margin-top: -0.25rem;
-	background-color: #007bff;
+	background-color: #ff0095;
 	border: 0;
 	border-radius: 1rem;
 	transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
